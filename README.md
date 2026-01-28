@@ -4,7 +4,7 @@ This repository contains the source files for my personal website.
 
 # Live Site
 You can view the website here:  
-[https://RedShadow11754/personal-website.github.io]  
+https://redshadow11754.github.io/personal-website/
 
 # Contents
  index.html - Main page of the website which is under the ddirectory templates.
